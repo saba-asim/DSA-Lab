@@ -1,2 +1,20 @@
 Add tasks description here:
+TASK 1:
+           In this code, an abstract shape class with a function  calculate area  shows that every shape must have its own way to implement it. The circle and rectangle classes are the derive class of shape each implement their own area calculation. In main, values of both shapes taken from users then calculates and displays their areas. The destructor message confirms when objects are destroyed.
+
+Task 2:
+        In this code, an abstract class employee with a function to calculate salary ensuring that every type of employee must provide its own way to implement it. The fulltimeemployee and parttimeemployee  are derived classes of employee  with one having a fixed salary and the other calculating pay based on work done. The main function creates both types of employees and displays their salaries.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
