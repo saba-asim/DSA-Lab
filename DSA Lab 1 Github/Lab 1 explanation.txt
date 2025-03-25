@@ -1,0 +1,1 @@
+In this code, Bubble sort is implement on an array for sorting of elements. Array elements are taken from users as a input. Then elements are sort in descending order with the help of bubble sort.
