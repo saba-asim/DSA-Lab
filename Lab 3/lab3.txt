@@ -1,1 +1,8 @@
+Task 1:
+      In this code a generic list class with basic list operations and an arraylist subclass that implements them. The ArrayList allows adding elements at the beginning or end and removing them from other position. The main function shows that user to interact with the list dynamically, adding, removing, and printing elements.
 
+Task 2:
+     This code is extension of  task 1 but it is menu based code.In this code a generic list class with basic list operations and an arraylist subclass that implements them. The ArrayList allows adding elements at the beginning or end and removing them from other position. The main function shows that user to interact with the list dynamically, adding, removing,inserting and printing elements.
+
+Task 3:
+      This code creates a custom list that can store numbers and perform various operations. It can add or remove numbers from the beginning or end of the list. It includes functions to find the sum of prime numbers, the second largest even number  and the second smallest odd number in the list. The program also finf and prints duplicate numbers.
